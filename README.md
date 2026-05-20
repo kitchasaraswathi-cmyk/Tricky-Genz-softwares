@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
@@ -52,3 +53,7 @@ We create modern, fast, and user-friendly digital products with creativity and p
 
 
 ---
+=======
+# Tricky-Genz-softwares
+We build modern digital experiences — from stunning websites to scalable full-stack applications for brands, startups, and businesses 🚀
+>>>>>>> 9a43860e69866c04baf46257f2443075781564be
