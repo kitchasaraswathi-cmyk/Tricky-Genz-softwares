@@ -150,13 +150,16 @@ export default function App() {
           <div className="md:hidden flex-1" />
 
           {/* Logo - Centered */}
-          <motion.div 
-            initial={{ opacity: 0, y: -10 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="flex-shrink-0 text-center"
-          >
-            <span className="font-heading text-2xl font-bold tracking-tighter uppercase text-white/90">Tricky <span className="text-brand-red">GenZ</span></span>
-          </motion.div>
+              <motion.div 
+                initial={{ opacity: 0, y: -10 }}
+                animate={{ opacity: 1, y: 0 }}
+                className="flex-shrink-0 text-center">
+                <img 
+                 src="/tg.png" 
+                 alt="Tricky GenZ Logo" 
+                 className="h-12 w-auto mx-auto"
+                 />
+              </motion.div>
 
           {/* Desktop Right Links / Mobile Menu Button */}
           <div className="flex-1 flex items-center justify-end">
@@ -447,7 +450,7 @@ export default function App() {
             <motion.a 
               whileHover={{ scale: 1.02 }}
               whileTap={{ scale: 0.98 }}
-              href="mailto:id-trickygenz@gmail.com"
+              href="mailto:trickygenz@gmail.com"
               className="group glass-card p-6 md:p-8 hover:border-brand-red relative overflow-hidden"
             >
               <div className="flex items-center justify-between">
