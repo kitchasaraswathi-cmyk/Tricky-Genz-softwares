@@ -227,7 +227,7 @@ export default function App() {
               <div className="absolute -inset-4 bg-brand-red/20 blur-3xl rounded-full group-hover:bg-brand-red/30 transition-all duration-1000 opacity-40" />
               <div className="relative glass-card overflow-hidden shadow-2xl flex items-center justify-center bg-brand-dark/40 border-white/10 max-w-2xl mx-auto">
                 <video 
-                  src="/tg animation.mp4" 
+                  src="/tg-animation.mp4" 
                   autoPlay 
                   loop 
                   muted 
