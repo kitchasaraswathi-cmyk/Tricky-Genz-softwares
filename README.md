@@ -1,59 +1,57 @@
-<<<<<<< HEAD
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+<img src="./logo.png" alt="Tricky GenZ Logo" width="220"/>
+
+# 🚀 TRICKY GENZ
+
+### Building Modern Digital Experiences for the Next Generation
+
+A creative freelance tech team focused on crafting modern websites, scalable applications, creative content, and stunning digital experiences for startups, businesses, and creators.
+
 </div>
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/bf1f4bc8-32d6-4dbe-9d03-0044923187d5
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
 ---
 
-# 🚀 About TRICKY GENZ
+# 🌟 What We Do
 
-TRICKY GENZ is a creative freelance tech team focused on building modern websites, scalable applications, and innovative digital experiences for startups, businesses, and creators.
+✨ Full Stack Web Development  
+🎨 UI/UX Design  
+📱 Responsive Websites  
+⚡ Modern Frontend Development  
+🔐 Backend APIs & Database Systems  
+🛒 Management System Applications  
+🚀 Portfolio & Business Websites  
+🎬 Video Editing  
+✍️ Content Writing  
 
 ---
 
-# 🌟 Services
+# 🛠 Tech Stack
 
-- Full Stack Web Development
-- UI/UX Design
-- Responsive Websites
-- Portfolio Websites
-- Backend API Development
-- Business & Management Systems
-- Video-editing
-- Content-writing
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-# 👥 Team Vision
+# 👥 Team TRICKY GENZ
 
-We create modern, fast, and user-friendly digital products with creativity and performance in mind.
+We believe in creativity, innovation, and building impactful digital products with modern technologies.
 
 ---
 
-# 📬 Contact
+# 📬 Contact Us
 
 📧 trickygenz@gmail.com  
-📱 Instagram: tricky_genz  
-
+📱 Instagram: @tricky_genz  
 
 ---
-=======
-# Tricky-Genz-softwares
-We build modern digital experiences — from stunning websites to scalable full-stack applications for brands, startups, and businesses 🚀
->>>>>>> 9a43860e69866c04baf46257f2443075781564be
+
+<div align="center">
+
+⭐ If you like our work, support us by starring this repository!
+
+</div>
